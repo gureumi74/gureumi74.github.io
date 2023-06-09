@@ -49,9 +49,9 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             프로필
-    url:               /profile/
-  - title:             게시글
+  - title:             게시물
+    url:               /example/
+  - title:             테마 문서
     url:               /docs/
   - title:             About
     url:               /about/
