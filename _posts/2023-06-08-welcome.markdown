@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "안녕하세요!"
+date:   2023-06-08 22:04:03 +0900
+categories: update
+---
+안녕하세요 저는 멋쟁이 사자처럼 백엔드 스쿨 5기 수강생 김하늘이라고 합니다. 제 목표는 백엔드 개발자가 되는 것입니다. 제 블로그를 방문해주셔서 감사합니다. <br>
+<a href="https://github.com/gureumi74">깃허브 주소</a>
+
+[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/
