@@ -13,7 +13,7 @@ author1:
     
   # This photo will be used in the about section
   picture:
-    path:           https://www.google.com/url?sa=i&url=http%3A%2F%2Fsnaptime.edaily.co.kr%2F2021%2F03%2F%25EC%2598%25A4%25EA%25B5%25AC%25EB%25A5%25BC-%25ED%2595%259C%25EA%25B5%25AD%25EC%259D%2598-%25EC%258A%25A4%25EB%2588%2584%25ED%2594%25BC%25EB%25A1%259C-%25ED%2582%25A4%25EC%259A%25B0%25EA%25B3%25A0-%25EC%258B%25B6%25EC%2596%25B4%25EC%259A%2594%2F&psig=AOvVaw26ctWvOo_A1V5onjjgq1qY&ust=1686359521066000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPiUl_6Atf8CFQAAAAAdAAAAABAJ
+    path:            http://snaptime.edaily.co.kr/wp-content/uploads/2021/03/KakaoTalk_20210310_174626882-700x394.jpg
     # srcset is optional, but can be used to provide higher res versions for retina displays
     srcset:
       1x:            https://via.placeholder.com/128x128
