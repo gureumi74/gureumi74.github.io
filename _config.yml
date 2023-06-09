@@ -51,6 +51,8 @@ author:
 menu:
   - title:             게시물
     url:               /example/
+    - title:            프로필
+    url:               /profile/
   - title:             테마 문서
     url:               /docs/
   - title:             About
