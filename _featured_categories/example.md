@@ -9,8 +9,8 @@ title: 게시물
 slug: 게시물
 
 # (Optional) Write a short (~150 characters) description of this featured tag.
-소개: >
-  안녕하세요 저는 멋쟁이사자처럼 백엔드 스쿨 5기 김하늘입니다.
+description: >
+  오늘 배운 내용을 올리는 카테고리입니다.
 
 # (Optional) You can disable grouping posts by date.
 # no_groups: true
